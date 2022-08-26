@@ -1,0 +1,14 @@
+C:\Users\Gunay Asgarkhanli\source\repos\21.08.2022 Hw04\21.08.2022 Hw04\bin\Debug\netcoreapp3.1\21.08.2022 Hw04.exe
+C:\Users\Gunay Asgarkhanli\source\repos\21.08.2022 Hw04\21.08.2022 Hw04\bin\Debug\netcoreapp3.1\21.08.2022 Hw04.deps.json
+C:\Users\Gunay Asgarkhanli\source\repos\21.08.2022 Hw04\21.08.2022 Hw04\bin\Debug\netcoreapp3.1\21.08.2022 Hw04.runtimeconfig.json
+C:\Users\Gunay Asgarkhanli\source\repos\21.08.2022 Hw04\21.08.2022 Hw04\bin\Debug\netcoreapp3.1\21.08.2022 Hw04.runtimeconfig.dev.json
+C:\Users\Gunay Asgarkhanli\source\repos\21.08.2022 Hw04\21.08.2022 Hw04\bin\Debug\netcoreapp3.1\21.08.2022 Hw04.dll
+C:\Users\Gunay Asgarkhanli\source\repos\21.08.2022 Hw04\21.08.2022 Hw04\bin\Debug\netcoreapp3.1\21.08.2022 Hw04.pdb
+C:\Users\Gunay Asgarkhanli\source\repos\21.08.2022 Hw04\21.08.2022 Hw04\obj\Debug\netcoreapp3.1\21.08.2022 Hw04.csproj.AssemblyReference.cache
+C:\Users\Gunay Asgarkhanli\source\repos\21.08.2022 Hw04\21.08.2022 Hw04\obj\Debug\netcoreapp3.1\21.08.2022 Hw04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gunay Asgarkhanli\source\repos\21.08.2022 Hw04\21.08.2022 Hw04\obj\Debug\netcoreapp3.1\21.08.2022 Hw04.AssemblyInfoInputs.cache
+C:\Users\Gunay Asgarkhanli\source\repos\21.08.2022 Hw04\21.08.2022 Hw04\obj\Debug\netcoreapp3.1\21.08.2022 Hw04.AssemblyInfo.cs
+C:\Users\Gunay Asgarkhanli\source\repos\21.08.2022 Hw04\21.08.2022 Hw04\obj\Debug\netcoreapp3.1\21.08.2022 Hw04.csproj.CoreCompileInputs.cache
+C:\Users\Gunay Asgarkhanli\source\repos\21.08.2022 Hw04\21.08.2022 Hw04\obj\Debug\netcoreapp3.1\21.08.2022 Hw04.dll
+C:\Users\Gunay Asgarkhanli\source\repos\21.08.2022 Hw04\21.08.2022 Hw04\obj\Debug\netcoreapp3.1\21.08.2022 Hw04.pdb
+C:\Users\Gunay Asgarkhanli\source\repos\21.08.2022 Hw04\21.08.2022 Hw04\obj\Debug\netcoreapp3.1\21.08.2022 Hw04.genruntimeconfig.cache
